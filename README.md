@@ -1,5 +1,18 @@
 ## Bank Customer Churn Prediction Model
 
+## Demo
+
+Experience our "Bank Customer Churn Prediction Model" live! The web app is hosted on Streamlit and provides an interactive interface to explore the predictive model. You can input customer data and receive predictions on the likelihood of churn.
+
+**Explore the Web App:** https://bank-customer-churn-prediction-model.streamlit.app/
+
+This interactive tool allows you to:
+- Enter customer details like geography, age, credit score, and more.
+- View predictions in real-time as you adjust the inputs.
+- Explore different scenarios and see how changes in customer data might affect churn predictions.
+
+The web app serves as a practical demonstration of the model’s capabilities and offers insights into factors influencing customer retention strategies.
+
 ### Overview
 The goal of the "Bank Customer Churn Prediction Model" project is to predict the likelihood of bank customers discontinuing their services with the bank. This model helps to identify potential churners using various predictive modeling techniques, thereby assisting the bank in implementing effective customer retention strategies.
 
