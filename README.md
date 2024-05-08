@@ -1,7 +1,3 @@
-Let's start by drafting the README for your "Bank Customer Churn Prediction Model" repository. Here’s a suggested structure based on the details from your PDF report:
-
----
-
 ## Bank Customer Churn Prediction Model
 
 ### Overview
@@ -47,7 +43,3 @@ The best performing model is a Random Forest Classifier with an accuracy of 93.5
 
 ### Contributing
 If you would like to contribute to this project or have any suggestions, please open an issue or a pull request.
-
----
-
-Would you like to include any additional sections or details in this README?
